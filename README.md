@@ -1,19 +1,88 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# Visit Oslo 🌍A simple and responsive hometown homepage built with HTML and CSS.This project showcases the beautiful city of Oslo, highlighting its culture, sports, parks, and local attractions through a clean modern design inspired by a Figma layout.---## 🚀 Live PreviewAdd your GitHub Pages link here after deployment: https://github.com/Chris94823/project.git
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+🛠 Built With
 
-Happy Coding!
+
+HTML5
+
+
+CSS3
+
+
+Flexbox
+
+
+Figma Design Reference
+
+
+
+✨ Features
+
+
+Responsive hero section
+
+
+Styled cards and layout
+
+
+Flexbox positioning
+
+
+Custom backgrounds and colors
+
+
+Clean modern UI
+
+
+
+📚 What I Learned
+While building this project, I practiced:
+
+
+CSS Flexbox
+
+
+Background images
+
+
+Margin and padding
+
+
+Border radius styling
+
+
+Centering elements properly
+
+
+Git and GitHub workflow
+
+
+Translating Figma designs into code
+
+
+
+📂 Project Structure
+project/
+│
+├── index.html
+├── styles.css
+├── images/
+└── README.md
+
+🔗 Design Reference
+Figma design used:
+https://www.figma.com/design/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage
+
+👤 Author
+Christopher Ayodele
+
+
+GitHub: https://github.com/Chris94823
+
+
+
+📄 License
+This project is for learning and portfolio purposes.
+

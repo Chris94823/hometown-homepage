@@ -1,7 +1,7 @@
 
-### Visit Oslo 🌍A simple and responsive hometown homepage built with HTML and CSS.This project showcases the beautiful city of Oslo, highlighting its culture, sports, parks, and local attractions through a clean modern design inspired by a Figma layout.
+#### Visit Oslo 🌍A simple and responsive hometown homepage built with HTML and CSS.This project showcases the beautiful city of Oslo, highlighting its culture, sports, parks, and local attractions through a clean modern design inspired by a Figma layout.
 
- https://github.com/Chris94823/project.git
+ https://chris94823.github.io/hometown-homepage/
 
 
 🛠 Built With
